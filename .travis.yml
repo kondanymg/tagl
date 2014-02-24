@@ -8,3 +8,7 @@ jdk:
 script:
         - pushd cron4j-original && ant rel && popd
         - mvn clean verify
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
